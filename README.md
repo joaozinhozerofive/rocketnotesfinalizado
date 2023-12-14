@@ -36,7 +36,7 @@ As seguintes tecnologias foram empregadas na criação deste projeto:
 
 ___
 
-## 🚀 Como utilizar o FrontEnd
+## 🚀 Como utilizar o projeto 
 
 Clone o projeto para o local desejado em seu computador.
 
@@ -44,21 +44,14 @@ Clone o projeto para o local desejado em seu computador.
 $ https://github.com/joaozinhozerofive/rocketnotesfinalizado.git
 ```
 ___
-## 🚀 Como utilizar o BackEnd
-
-Clone o projeto para o local desejado em seu computador.
-
-```bash
-$ git clone git@github.com:joaozinhozerofive/FoodExplorer-api.git
-```
-___
+## 🚀 Separe o back end e o front em paginas distintas
 
 #### 🚧 Executando o BackEnd
 ```bash
 # Instale as dependências necessárias
 $ npm install
 
-# Agora inicie o servidor do BackEnd
+# Agora inicie o servidor do BackEnd em desenvolvimento
 $ npm run dev
 ```
 ___
@@ -68,7 +61,7 @@ ___
 # Instale as dependências necessárias
 $ npm install
 
-# Agora inicie o servidor do FrontEnd
+# Agora inicie o servidor do FrontEnd em desenvolvimento 
 $ npm run dev
 
 # O terminal irá exibir o endereço local onde a aplicação está sendo executada. Basta digitar o mesmo endereço em seu navegador preferido. O endereço usado na criação do projeto foi este:
@@ -76,13 +69,7 @@ $ npm run dev
   http://localhost:5173/
 ```
 
-#### 🔑 Quer ver como a aplicação funciona vista pelo Admin? Use a conta a seguir:
 
-```bash
-  e-mail: lucas@gmail.com  
-  senha: 123
-```
-___
 
 Este BackEnd foi hospedado diretamente no Render.
 Já o Frontend foi hospedado diretamente no Netlify.
@@ -94,4 +81,4 @@ Se você está tentando acessar o site e o BackEnd não responde, apenas aguarde
 <br>
 Esta etapa poderá demorar até 1 minuto, dependendo da carga nos servidores do Render.
 
-[Veja aqui o resultado final](https://main--marvelous-douhua-7e1bba.netlify.app/)
+[Veja aqui o resultado final](https://rocketnotesjvmr.netlify.app/)
