@@ -84,5 +84,5 @@ Esta etapa poderá demorar até 1 minuto, dependendo da carga nos servidores do 
 [Veja aqui o resultado final](https://rocketnotesjvmr.netlify.app/)
 
 <p align="center">
-    <img align="center" src="https://github.com/micaellimedeiros/nlw-ia/assets/54600663/7cd3f763-e848-434f-a180-6c9ada728d24" alt="banner"/>
+    <img align="center" src="https://github.com/joaozinhozerofive/rocketnotesfinalizado/assets/124640745/42353355-7ed7-456c-ace3-3f8d75a8f064" alt="banner"/>
 </p>
