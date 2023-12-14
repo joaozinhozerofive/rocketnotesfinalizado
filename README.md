@@ -82,3 +82,7 @@ Se você está tentando acessar o site e o BackEnd não responde, apenas aguarde
 Esta etapa poderá demorar até 1 minuto, dependendo da carga nos servidores do Render.
 
 [Veja aqui o resultado final](https://rocketnotesjvmr.netlify.app/)
+
+<p align="center">
+    <img align="center" src="https://github.com/micaellimedeiros/nlw-ia/assets/54600663/7cd3f763-e848-434f-a180-6c9ada728d24" alt="banner"/>
+</p>
